@@ -1,0 +1,11 @@
+{
+	"host":	"smtp.163.com",
+	"port":	25,
+	"email":	"zzyservers@163.com",
+	"password":	"zzy386143717",
+	"title":	"测试邮件",
+	"text":	"邮件内容！！！
+	
+					可以换行",
+	"expiry":	45
+}
